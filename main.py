@@ -5,7 +5,7 @@ from random import choice, randrange
 W, H = 10, 20
 TILE = 45
 GAME_RES = W * TILE, H * TILE
-RES = 750, 940
+RES = 1000, 700
 FPS = 60
 
 pygame.init()
